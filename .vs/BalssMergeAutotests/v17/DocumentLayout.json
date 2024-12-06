@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|c:\\users\\evgeniy.sarkisyan\\source\\repos\\balssmergeautotests\\balssmergeautotests\\utils\\adbcommandexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|solutionrelative:balssmergeautotests\\utils\\adbcommandexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|c:\\users\\evgeniy.sarkisyan\\source\\repos\\balssmergeautotests\\balssmergeautotests\\utils\\alttesterservercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|solutionrelative:balssmergeautotests\\utils\\alttesterservercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|c:\\users\\evgeniy.sarkisyan\\source\\repos\\balssmergeautotests\\balssmergeautotests\\utils\\cleanappdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|solutionrelative:balssmergeautotests\\utils\\cleanappdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|c:\\users\\evgeniy.sarkisyan\\source\\repos\\balssmergeautotests\\balssmergeautotests\\utils\\startapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|solutionrelative:balssmergeautotests\\utils\\startapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|c:\\users\\evgeniy.sarkisyan\\source\\repos\\balssmergeautotests\\balssmergeautotests\\utils\\appinstall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|solutionrelative:balssmergeautotests\\utils\\appinstall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|c:\\users\\evgeniy.sarkisyan\\source\\repos\\balssmergeautotests\\balssmergeautotests\\utils\\backsystemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|solutionrelative:balssmergeautotests\\utils\\backsystemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|c:\\users\\evgeniy.sarkisyan\\source\\repos\\balssmergeautotests\\balssmergeautotests\\utils\\shutdownapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|solutionrelative:balssmergeautotests\\utils\\shutdownapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|c:\\users\\evgeniy.sarkisyan\\source\\repos\\balssmergeautotests\\balssmergeautotests\\pageobjects\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|solutionrelative:balssmergeautotests\\pageobjects\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|c:\\users\\evgeniy.sarkisyan\\source\\repos\\balssmergeautotests\\balssmergeautotests\\autotests\\coremechanicstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|solutionrelative:balssmergeautotests\\autotests\\coremechanicstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|c:\\users\\evgeniy.sarkisyan\\source\\repos\\balssmergeautotests\\balssmergeautotests\\fixtures\\basetestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|solutionrelative:balssmergeautotests\\fixtures\\basetestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\bin\\Debug\\net8.0\\allureConfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BalssMergeAutotests\\bin\\Debug\\net8.0\\allureConfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|c:\\users\\evgeniy.sarkisyan\\source\\repos\\balssmergeautotests\\balssmergeautotests\\balssmergeautotests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEC24A51-A1E8-462A-A39A-607C0E9E11A6}|BalssMergeAutotests\\BalssMergeAutotests.csproj|solutionrelative:balssmergeautotests\\balssmergeautotests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\PageObjects\\MainPage.cs",
+              "RelativeDocumentMoniker": "BalssMergeAutotests\\PageObjects\\MainPage.cs",
+              "ToolTip": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\PageObjects\\MainPage.cs",
+              "RelativeToolTip": "BalssMergeAutotests\\PageObjects\\MainPage.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:50:43.768Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartApp.cs",
+              "DocumentMoniker": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\StartApp.cs",
+              "RelativeDocumentMoniker": "BalssMergeAutotests\\Utils\\StartApp.cs",
+              "ToolTip": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\StartApp.cs",
+              "RelativeToolTip": "BalssMergeAutotests\\Utils\\StartApp.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:26:02.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShutDownApp.cs",
+              "DocumentMoniker": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\ShutDownApp.cs",
+              "RelativeDocumentMoniker": "BalssMergeAutotests\\Utils\\ShutDownApp.cs",
+              "ToolTip": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\ShutDownApp.cs",
+              "RelativeToolTip": "BalssMergeAutotests\\Utils\\ShutDownApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:26:01.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CleanAppData.cs",
+              "DocumentMoniker": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\CleanAppData.cs",
+              "RelativeDocumentMoniker": "BalssMergeAutotests\\Utils\\CleanAppData.cs",
+              "ToolTip": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\CleanAppData.cs",
+              "RelativeToolTip": "BalssMergeAutotests\\Utils\\CleanAppData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:14:40.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BackSystemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\BackSystemCommand.cs",
+              "RelativeDocumentMoniker": "BalssMergeAutotests\\Utils\\BackSystemCommand.cs",
+              "ToolTip": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\BackSystemCommand.cs",
+              "RelativeToolTip": "BalssMergeAutotests\\Utils\\BackSystemCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:14:40.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppInstall.cs",
+              "DocumentMoniker": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\AppInstall.cs",
+              "RelativeDocumentMoniker": "BalssMergeAutotests\\Utils\\AppInstall.cs",
+              "ToolTip": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\AppInstall.cs",
+              "RelativeToolTip": "BalssMergeAutotests\\Utils\\AppInstall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:26:00.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoreMechanicsTests.cs",
+              "DocumentMoniker": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Autotests\\CoreMechanicsTests.cs",
+              "RelativeDocumentMoniker": "BalssMergeAutotests\\Autotests\\CoreMechanicsTests.cs",
+              "ToolTip": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Autotests\\CoreMechanicsTests.cs",
+              "RelativeToolTip": "BalssMergeAutotests\\Autotests\\CoreMechanicsTests.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:43:27.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AltTesterServerCommands.cs",
+              "DocumentMoniker": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\AltTesterServerCommands.cs",
+              "RelativeDocumentMoniker": "BalssMergeAutotests\\Utils\\AltTesterServerCommands.cs",
+              "ToolTip": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\AltTesterServerCommands.cs",
+              "RelativeToolTip": "BalssMergeAutotests\\Utils\\AltTesterServerCommands.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:57:28.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdbCommandExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\AdbCommandExecutor.cs",
+              "RelativeDocumentMoniker": "BalssMergeAutotests\\Utils\\AdbCommandExecutor.cs",
+              "ToolTip": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Utils\\AdbCommandExecutor.cs",
+              "RelativeToolTip": "BalssMergeAutotests\\Utils\\AdbCommandExecutor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:36:07.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseTestFixture.cs",
+              "DocumentMoniker": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Fixtures\\BaseTestFixture.cs",
+              "RelativeDocumentMoniker": "BalssMergeAutotests\\Fixtures\\BaseTestFixture.cs",
+              "ToolTip": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\Fixtures\\BaseTestFixture.cs",
+              "RelativeToolTip": "BalssMergeAutotests\\Fixtures\\BaseTestFixture.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:38:59.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "allureConfig.json",
+              "DocumentMoniker": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\bin\\Debug\\net8.0\\allureConfig.json",
+              "RelativeDocumentMoniker": "BalssMergeAutotests\\bin\\Debug\\net8.0\\allureConfig.json",
+              "ToolTip": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\bin\\Debug\\net8.0\\allureConfig.json",
+              "RelativeToolTip": "BalssMergeAutotests\\bin\\Debug\\net8.0\\allureConfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T16:51:04.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BalssMergeAutotests.csproj",
+              "DocumentMoniker": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\BalssMergeAutotests.csproj",
+              "RelativeDocumentMoniker": "BalssMergeAutotests\\BalssMergeAutotests.csproj",
+              "ToolTip": "C:\\Users\\evgeniy.sarkisyan\\source\\repos\\BalssMergeAutotests\\BalssMergeAutotests\\BalssMergeAutotests.csproj",
+              "RelativeToolTip": "BalssMergeAutotests\\BalssMergeAutotests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T15:13:31.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
