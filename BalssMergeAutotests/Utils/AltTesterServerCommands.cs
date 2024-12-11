@@ -17,9 +17,8 @@ namespace BalssMergeAutotests.Utils
             {
                 return;
             }
-            //string altTesterAppPath = Environment.GetEnvironmentVariable("altTesterAppPath")
-                          //?? @"C:\Program Files\AltTesterDesktop\AltTesterDesktop.exe";
-            string altTesterAppPath =  @"C:\Program Files\AltTesterDesktop\AltTesterDesktop.exe";
+            string altTesterAppPath = Environment.GetEnvironmentVariable("altTesterAppPath")
+                          ?? @"C:\Program Files\AltTesterDesktop\AltTesterDesktop.exe";
             try
             {
                 Process.Start(altTesterAppPath);

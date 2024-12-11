@@ -14,7 +14,6 @@ namespace BalssMergeAutotests.Fixtures
     public class BaseTestFixture
     {
         private AltDriver _altDriver;
-        private AltTesterServerCommands _altTesterServerCommands = new AltTesterServerCommands();
         private AppInstall _appInstall;
         private StartApp _startApp;
         private ShutDownApp _shutDownApp;
@@ -42,7 +41,6 @@ namespace BalssMergeAutotests.Fixtures
         {
             _startApp = new StartApp();
 
-            _altTesterServerCommands.StartAltTesterServer();
             _cleanAppData.ClearAppData();
             _startApp.StartApplication();
             _altDriver = new AltDriver();
@@ -59,7 +57,6 @@ namespace BalssMergeAutotests.Fixtures
             _altDriver.Stop();
             _shutDownApp.ShutDownApplication();
             _cleanAppData.ClearAppData();
-            _altTesterServerCommands.ShutDownAltTesterServer();
         }
     }
 }
